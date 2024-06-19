@@ -1,9 +1,8 @@
 ---
-title: this is an new title it saves
+title: Kick it into lightspeed with integrations
 description: Lorem ipsum dolor sit amet
 pubDate: 2024-06-19T00:55:11.073Z
 type: blog
-draft: true
 slug: title
 heroImage: /blog-placeholder-about.jpg
 ---
