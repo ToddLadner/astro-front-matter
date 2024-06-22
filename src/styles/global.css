@@ -4,6 +4,11 @@
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
 
+.prose > * { margin-block-end: 0; } 
+.prose > * + * { margin-block-start: 1em; }
+ 
+.prose :is(h1,h2,h3,h4) { display: block;}
+
 :root {
 	--accent: #2337ff;
 	--accent-dark: #000d8a;
